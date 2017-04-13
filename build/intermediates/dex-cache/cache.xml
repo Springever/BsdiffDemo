@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\BsdiffDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f03ac7c82607600d4be2575d9cf6168bdce3b50b">
+        <dex dex="D:\software\Android\AndroidStudioProjects\BsdiffDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b404c2e206bbe84a7cdfa10ca436b6f26c467751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\AndroidStudioProjects\BsdiffDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a05c3d3f892c96c6fe57bf8d31315ec931d6075">
+        <dex dex="D:\software\Android\AndroidStudioProjects\BsdiffDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57d6b584ebf4a072f9e5a4b2cdd34bd9e9e20ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\software\Android\AndroidStudioProjects\BsdiffDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_c37a690f5fedb8dc36776dbef849b9d0565f4be0\classes.dex" />
+    </item>
+
+</items>
